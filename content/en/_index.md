@@ -8,4 +8,4 @@ weight: 1
 ---
 
 # Christine Anne Scott
-## The Hugo theme for you. Or for your company.
+## Consultant to .
