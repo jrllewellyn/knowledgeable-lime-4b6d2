@@ -31,7 +31,7 @@ logo = ""
 
   [params.form]
   netlify = true
-  action = "https://formspree.io/your@email.com"
+  action = "https://formspree.io/cas212@email.com"
   method = "POST"
   inputNameName = "name"
   inputNameLabel = "Name"
