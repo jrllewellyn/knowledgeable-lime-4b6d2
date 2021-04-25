@@ -1,5 +1,5 @@
 ---
-title : "Special Event Fund"
+title : "Special Event Fundraising"
 description: ""
 draft: false
 weight: 3
