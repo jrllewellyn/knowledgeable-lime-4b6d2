@@ -58,7 +58,7 @@ logo = ""
 
   [params.social]
   twitter = "https://twitter.com/"
-  facebook = "https://facebook.com/john"
+  facebook = "https://facebook.com/"
   github = ""
   gitlab = ""
   codepen = ""
