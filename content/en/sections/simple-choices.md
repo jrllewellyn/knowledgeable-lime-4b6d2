@@ -1,5 +1,5 @@
 ---
-title : "Simple Choices"
+title : "Organizational Development"
 description: ""
 draft: false
 weight: 2
