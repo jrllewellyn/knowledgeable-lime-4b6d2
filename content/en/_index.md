@@ -7,5 +7,5 @@ menu: main
 weight: 1
 ---
 
-# Terrassa
+# Christine Anne Scott
 ## The Hugo theme for you. Or for your company.
