@@ -8,4 +8,4 @@ weight: 1
 ---
 
 # Christine Anne Scott
-## Consultant to non-porfits.
+## Consultant to non-profits.
