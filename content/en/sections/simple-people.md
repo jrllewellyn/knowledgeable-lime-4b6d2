@@ -1,5 +1,5 @@
 ---
-title : "Simple People"
+title : "Special Event Fund"
 description: ""
 draft: false
 weight: 3
