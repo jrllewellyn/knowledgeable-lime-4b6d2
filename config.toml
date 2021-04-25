@@ -59,7 +59,7 @@ logo = ""
   [params.social]
   twitter = "https://twitter.com/john"
   facebook = "https://facebook.com/john"
-  github = "https://github.com/john"
+  github = ""
   gitlab = ""
   codepen = "https://codepen.io/john"
   instagram = "https://instagram.com/john"
