@@ -57,7 +57,7 @@ logo = ""
   address = "Gaithersburg, MD 20886"
 
   [params.social]
-  twitter = "https://twitter.com/n"
+  twitter = "https://twitter.com/"
   facebook = "https://facebook.com/john"
   github = ""
   gitlab = ""
