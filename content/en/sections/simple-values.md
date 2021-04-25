@@ -5,4 +5,4 @@ draft: false
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It may sound counter-intuitive, but there really is more to fund development than just raising money! Identifying fundraising sources, building lasting donor relationships, keying on the organization's objectives and ideals help determine the success of fundraising campaigns, as well as helping to provide a long term and stable foundation as organizations grow and change. Small organizations may initially lack staff to do this very important step effectively and hiring a consultant may provide the best way to bridge the gap between a small staff and finding the money needed to grow and hire fund development professionals within the organization.
