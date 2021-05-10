@@ -76,7 +76,7 @@ logo = ""
   copy = ""
 
   [params.languageSwitcher]
-  show = true
+  show = false
 
 [privacy.googleAnalytics]
 anonymizeIP = true
